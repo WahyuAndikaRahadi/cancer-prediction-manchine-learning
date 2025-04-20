@@ -39,8 +39,8 @@ Model telah dilatih menggunakan dataset medis terpercaya dan dievaluasi dengan m
 
 ```bash
 # 1. Clone repository ini
-git clone https://github.com/username/prediksi-kanker-paru.git
-cd prediksi-kanker-paru
+git clone https://github.com/WahyuAndikaRahadi/cancer-prediction-manchine-learning.git
+cd cancer-prediction-manchine-learning
 
 # 2. Install semua dependency
 pip install -r requirements.txt
